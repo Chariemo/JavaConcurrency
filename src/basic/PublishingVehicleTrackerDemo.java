@@ -40,6 +40,7 @@ public class PublishingVehicleTrackerDemo {
 	public static void main(String[] args) {
 		
 		
+		
 	}
 }
 
